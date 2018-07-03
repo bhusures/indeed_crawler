@@ -26,7 +26,9 @@ ELECTRICAL_ENGINEERING_TECHS_REGEX = [
 ]
 
 ELECTRICAL_ENGINEERING_TECHS_FORLOOP = [
-    "TCP/IP", "LAN/WAN",
+    "TCP/IP", "LAN/WAN", "SDN", "NFV", "Python", "VLSI", "PUFs", "Matlab", "Networking", "Troubleshooting", "Computer Architecture",
+    "Ruby", "Call Control", "Directory Services", "Bitrate Streaming", "QoS", "QoE", "Video Streaming", "Programmable Memory", "Math",
+    "Statistics", "Machine learning", "Deep learning", "Microwaves", "Optical"
 ]
 
 IT_OPERATIONS_TECHS_REGEX = [
